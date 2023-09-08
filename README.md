@@ -1,9 +1,12 @@
 # My Website 🌐
 <p align="center">
   <a href="https://demo-website-130.netlify.app/">
-    <img src="https://your-website-logo-url.png" alt="Website Demo">
+    <img src="https://img.icons8.com/3d-fluency/94/goprod.png" alt="Website Demo">
   </a>
 </p>
+
+Click the logo to See Live
+
 
 This is a website built with React and React Router. It includes a home page, an about page, a contact page, and a user page that displays information about a specific user.
 
