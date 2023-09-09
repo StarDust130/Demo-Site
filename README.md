@@ -9,7 +9,6 @@
 
 
 
-
 This is a website built with React and React Router. It includes a home page, an about page, a contact page, and a user page that displays information about a specific user.
 
 ## Installation 🚀
